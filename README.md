@@ -1,6 +1,7 @@
 # EuroSciPy beginner sprint materials
 
 Please add your name here:
+- [Htun Pyae Sone](https://github.com/hpsone)
 
 
 
