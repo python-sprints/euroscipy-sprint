@@ -1,8 +1,9 @@
 # EuroSciPy beginner sprint materials
 
 Please add your name here:
-- [Ana Vila Verde](https://github.com/asavv)
 
+- [Krzysztof](https://github.com/gihupy)
+- [Ana Vila Verde](https://github.com/asavv)
 - [Anne Estoppey](https://github.com/AnneEstoppey)
 - [Htun Pyae Sone](https://github.com/hpsone)
 
