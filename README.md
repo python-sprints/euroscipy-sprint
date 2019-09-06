@@ -1,6 +1,8 @@
 # EuroSciPy beginner sprint materials
 
 Please add your name here:
+
+- [Anne Estoppey](https://github.com/AnneEstoppey)
 - [Htun Pyae Sone](https://github.com/hpsone)
 
 
